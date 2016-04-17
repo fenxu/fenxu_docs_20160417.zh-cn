@@ -1,0 +1,8 @@
+[submodule "docs themes for fenxu_docset__20160417_1/_themes"]
+	path = fenxu_docset__20160417_1/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
+[submodule "docs themes for fenxu_docset__20160417_2/_themes"]
+	path = fenxu_docset__20160417_2/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
